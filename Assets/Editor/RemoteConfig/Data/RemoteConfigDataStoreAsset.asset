@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"11b036a5-0e59-4521-aa36-ee36cd73255a\"\n   
+    },\n    \"rs\": {\n      \"key\": \"inter_active\",\n      \"type\": \"bool\",\n     
+    \"value\": true\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3a24939a-1f11-4b62-9c8b-9efb5698ea14\"\n   
+    },\n    \"rs\": {\n      \"key\": \"inter_start_level\",\n      \"type\": \"int\",\n     
+    \"value\": 10\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"d7a6f039-ebc7-470f-97e1-ee2c2dee3110\"\n   
+    },\n    \"rs\": {\n      \"key\": \"inter_cooldown\",\n      \"type\": \"int\",\n     
+    \"value\": 120\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"dd6741b7-1b89-41ff-b4ea-922b938e6bcd\"\n   
+    },\n    \"rs\": {\n      \"key\": \"no_ads_pop_up_freq\",\n      \"type\": \"int\",\n     
+    \"value\": 3\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"ddd36482-f13a-44ca-9207-9ad09fe28e93\"\n   
+    },\n    \"rs\": {\n      \"key\": \"no_ads_pop_up_end_level\",\n      \"type\":
+    \"int\",\n      \"value\": 10\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\":
+    \"7802a0fe-2bc1-4540-ab07-d0dde20f1082\"\n    },\n    \"rs\": {\n      \"key\":
+    \"freeze_time_price\",\n      \"type\": \"int\",\n      \"value\": 30\n    }\n 
+    },\n  {\n    \"metadata\": {\n      \"entityId\": \"2b29739c-7dbe-4b69-a9c4-96440891d281\"\n   
+    },\n    \"rs\": {\n      \"key\": \"passanger_booster_price\",\n      \"type\":
+    \"int\",\n      \"value\": 30\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\":
+    \"5e062e98-0ef9-4c92-a895-7372c46cdc4a\"\n    },\n    \"rs\": {\n      \"key\":
+    \"level_failed_add_extra_time\",\n      \"value\": 15,\n      \"type\": \"int\"\n   
+    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3dc1bfb2-c748-4b37-9ef4-7a8c5b59f869\"\n   
+    },\n    \"rs\": {\n      \"key\": \"freeze_time_booster_value\",\n      \"value\":
+    5,\n      \"type\": \"int\"\n    }\n  }\n]"
+  _rsLastCachedKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"11b036a5-0e59-4521-aa36-ee36cd73255a\"\n   
+    },\n    \"rs\": {\n      \"key\": \"inter_active\",\n      \"type\": \"bool\",\n     
+    \"value\": true\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3a24939a-1f11-4b62-9c8b-9efb5698ea14\"\n   
+    },\n    \"rs\": {\n      \"key\": \"inter_start_level\",\n      \"type\": \"int\",\n     
+    \"value\": 10\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"d7a6f039-ebc7-470f-97e1-ee2c2dee3110\"\n   
+    },\n    \"rs\": {\n      \"key\": \"inter_cooldown\",\n      \"type\": \"int\",\n     
+    \"value\": 120\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"dd6741b7-1b89-41ff-b4ea-922b938e6bcd\"\n   
+    },\n    \"rs\": {\n      \"key\": \"no_ads_pop_up_freq\",\n      \"type\": \"int\",\n     
+    \"value\": 3\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"ddd36482-f13a-44ca-9207-9ad09fe28e93\"\n   
+    },\n    \"rs\": {\n      \"key\": \"no_ads_pop_up_end_level\",\n      \"type\":
+    \"int\",\n      \"value\": 10\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\":
+    \"7802a0fe-2bc1-4540-ab07-d0dde20f1082\"\n    },\n    \"rs\": {\n      \"key\":
+    \"freeze_time_price\",\n      \"type\": \"int\",\n      \"value\": 30\n    }\n 
+    },\n  {\n    \"metadata\": {\n      \"entityId\": \"2b29739c-7dbe-4b69-a9c4-96440891d281\"\n   
+    },\n    \"rs\": {\n      \"key\": \"passanger_booster_price\",\n      \"type\":
+    \"int\",\n      \"value\": 30\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\":
+    \"5e062e98-0ef9-4c92-a895-7372c46cdc4a\"\n    },\n    \"rs\": {\n      \"key\":
+    \"level_failed_add_extra_time\",\n      \"value\": 15,\n      \"type\": \"int\"\n   
+    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3dc1bfb2-c748-4b37-9ef4-7a8c5b59f869\"\n   
+    },\n    \"rs\": {\n      \"key\": \"freeze_time_booster_value\",\n      \"value\":
+    5,\n      \"type\": \"int\"\n    }\n  }\n]"
+  _environments: "[\n  {\n    \"projectId\": \"f146a05d-372e-4eef-9e7a-25f8d0e0123c\",\n   
+    \"name\": \"production\",\n    \"id\": \"9ae7b62e-644c-4e5f-aaee-d37687cd346c\",\n   
+    \"isDefault\": true,\n    \"createdAt\": \"2024-03-20T08:31:41Z\",\n    \"updatedAt\":
+    \"2024-03-20T08:31:41Z\"\n  }\n]"
