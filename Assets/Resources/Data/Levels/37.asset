@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b83e40f575b4879889d443c7f56506, type: 3}
+  m_Name: 37
+  m_EditorClassIdentifier: 
+  graphWidth: 5
+  graphHeight: 8
+  Items:
+  - position: {x: 1, y: 7}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 7}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 2, y: 7}
+    colors: 6
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 2, y: 6}
+    colors: 6
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 6}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 6}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 0, y: 4}
+    colors: 9
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 4}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 2, y: 4}
+    colors: 6
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 4}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 4, y: 4}
+    colors: 9
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 4, y: 3}
+    colors: 9
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 3}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 2, y: 3}
+    colors: 6
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 3}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 0, y: 3}
+    colors: 9
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 1}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 2, y: 1}
+    colors: 6
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 0}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 1}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 2, y: 0}
+    colors: 6
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 0}
+    colors: 1
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 0, y: 5}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  - position: {x: 3, y: 5}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  - position: {x: 0, y: 2}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  - position: {x: 3, y: 2}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  Obstacles: []
+  passangers:
+  - color: 9
+    count: 12
+  - color: 1
+    count: 36
+  - color: 6
+    count: 18
+  - color: 7
+    count: 24
+  - color: 9
+    count: 12
+  - color: 1
+    count: 36
+  - color: 6
+    count: 18
+  - color: 7
+    count: 24
+  passangerChecks:
+  - color: 1
+    currentNumber: 72
+    targetNumber: 72
+  - color: 6
+    currentNumber: 36
+    targetNumber: 36
+  - color: 9
+    currentNumber: 24
+    targetNumber: 24
+  - color: 7
+    currentNumber: 48
+    targetNumber: 48
+  cameraPos: {x: 10, y: 25.79, z: 1.75}
+  cameraAngle: {x: 50.000015, y: 0, z: 0}
+  cameraSize: 32

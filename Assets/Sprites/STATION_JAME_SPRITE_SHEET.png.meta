@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: 6534b50c66ff040278ce7c27dd4f9266
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 141
+        height: 1207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66515386a76cc4bc99164a589e03b5b1
+      internalID: -1322146736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1789
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f7d7c4cfed4d2f9056870b5b6d951
+      internalID: 1252665168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1772
+        width: 114
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f520d5270843ec9159d546ecef168
+      internalID: 243044099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_3
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1810
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09428a876cc2443180a49a4498eef4e
+      internalID: -947907720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_4
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1768
+        width: 358
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06adf50c87994295bc9f1b17ef8a7d8
+      internalID: 162422854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1767
+        width: 358
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767dc54724d90488d8a291bad94b16fb
+      internalID: -2044204267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1572
+        width: 338
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf603069db9849d19887d438e632a01
+      internalID: 456262731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1651
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2562431873b5c457aba8e9edd9d24e15
+      internalID: -2101515654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_8
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1542
+        width: 359
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a701da71a564894832e95b442716a7
+      internalID: -847492732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1542
+        width: 359
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d984dafd0ff4df683844c338e0a795
+      internalID: -1618817014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1561
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9fa18ba0498492fa657147d659c7c8
+      internalID: -77649579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_11
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1493
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26832b9ab3ae41e2bd509f4849a6436
+      internalID: 1948999614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1555
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1b436e9cca942edbbd1be377b7fb5c
+      internalID: -1861639485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1549
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee110ab57d514d5fa62f11ad9614317
+      internalID: 1487348117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1543
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96a9671ac9214b14a64e18a98262c86
+      internalID: 1789114897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1500
+        width: 5
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c37023b03644ad0ba6df7f617f80b6
+      internalID: 1758345260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1397
+        width: 341
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b97d50251814fba8c9ae91eeb08702
+      internalID: -1449452204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_17
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1315
+        width: 360
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc92e4091b72461e92094109208f72e
+      internalID: 1004583188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_18
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1317
+        width: 361
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e5d71ee79714a2aa843b052ef9ea15
+      internalID: 99106896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1177
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46958834d2e44608b7dfa07a6e97e5
+      internalID: 1427048902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1221
+        width: 344
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57393d5ec91e48c4a30e326e10040ca
+      internalID: 692887933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1080
+        width: 29
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a309e13e39014de68d99578dfa04628
+      internalID: -1712875523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 907
+        width: 512
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceb061b561eb48688895c199b30242f
+      internalID: -71641283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 775
+        width: 72
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd146f5dcbc6646bc86c03b7ef74a9de
+      internalID: -497829583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 534
+        width: 392
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5672f37ae2245a9a088065e9ac1fc6
+      internalID: -582856096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 769
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2ec679a9c0f43fabb0d72f7f216e1f
+      internalID: -1245581447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 763
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babcd766b8bf14b2fa16d44618b0adac
+      internalID: 2145407678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 745
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd9b827a9904bddb65a772b30bb227
+      internalID: -301312227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 757
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9823444dd95e149e3958522cda24b1bd
+      internalID: 479778482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 346
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f5beb9947134f0b86d7d6ab60f225d
+      internalID: 781999627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_30
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 22
+        width: 358
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59faf947a7c434c4d9b0b0991840e70b
+      internalID: 470109259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATION_JAME_SPRITE_SHEET_31
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 61
+        width: 262
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860a69f41b3b54eb0968c7b1f6263dd9
+      internalID: 1469593822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cf6f38fe76668423ea8684902f7248fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      STATION_JAME_SPRITE_SHEET_0: -1322146736
+      STATION_JAME_SPRITE_SHEET_1: 1252665168
+      STATION_JAME_SPRITE_SHEET_10: -77649579
+      STATION_JAME_SPRITE_SHEET_11: 1948999614
+      STATION_JAME_SPRITE_SHEET_12: -1861639485
+      STATION_JAME_SPRITE_SHEET_13: 1487348117
+      STATION_JAME_SPRITE_SHEET_14: 1789114897
+      STATION_JAME_SPRITE_SHEET_15: 1758345260
+      STATION_JAME_SPRITE_SHEET_16: -1449452204
+      STATION_JAME_SPRITE_SHEET_17: 1004583188
+      STATION_JAME_SPRITE_SHEET_18: 99106896
+      STATION_JAME_SPRITE_SHEET_19: 1427048902
+      STATION_JAME_SPRITE_SHEET_2: 243044099
+      STATION_JAME_SPRITE_SHEET_20: 692887933
+      STATION_JAME_SPRITE_SHEET_21: -1712875523
+      STATION_JAME_SPRITE_SHEET_22: -71641283
+      STATION_JAME_SPRITE_SHEET_23: -497829583
+      STATION_JAME_SPRITE_SHEET_24: -582856096
+      STATION_JAME_SPRITE_SHEET_25: -1245581447
+      STATION_JAME_SPRITE_SHEET_26: 2145407678
+      STATION_JAME_SPRITE_SHEET_27: -301312227
+      STATION_JAME_SPRITE_SHEET_28: 479778482
+      STATION_JAME_SPRITE_SHEET_29: 781999627
+      STATION_JAME_SPRITE_SHEET_3: -947907720
+      STATION_JAME_SPRITE_SHEET_30: 470109259
+      STATION_JAME_SPRITE_SHEET_31: 1469593822
+      STATION_JAME_SPRITE_SHEET_4: 162422854
+      STATION_JAME_SPRITE_SHEET_5: -2044204267
+      STATION_JAME_SPRITE_SHEET_6: 456262731
+      STATION_JAME_SPRITE_SHEET_7: -2101515654
+      STATION_JAME_SPRITE_SHEET_8: -847492732
+      STATION_JAME_SPRITE_SHEET_9: -1618817014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

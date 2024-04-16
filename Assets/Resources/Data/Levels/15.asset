@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b83e40f575b4879889d443c7f56506, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  graphWidth: 6
+  graphHeight: 10
+  Items:
+  - position: {x: 1, y: 9}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 2, y: 9}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 9}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 8}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 7}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 2, y: 7}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 5}
+    colors: 3
+    direction: 0
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 5, y: 0}
+    colors: 3
+    direction: 0
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 2, y: 0}
+    colors: 3
+    direction: 0
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 4, y: 2}
+    colors: 3
+    direction: 0
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 3}
+    colors: 3
+    direction: 0
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 2, y: 2}
+    colors: 3
+    direction: 0
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 2}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 3}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 4}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 0, y: 1}
+    colors: 4
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 0, y: 0}
+    colors: 4
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 0, y: 5}
+    colors: 4
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 0, y: 6}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  - position: {x: 4, y: 6}
+    colors: 5
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 4, y: 5}
+    colors: 5
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 4, y: 4}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  - position: {x: 2, y: 8}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  - position: {x: 3, y: 7}
+    colors: 5
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 0
+  Obstacles:
+  - position: {x: 3, y: 1}
+    isGroundObstacle: 1
+  - position: {x: 2, y: 4}
+    isGroundObstacle: 0
+  passangers:
+  - color: 5
+    count: 36
+  - color: 3
+    count: 90
+  - color: 7
+    count: 36
+  - color: 4
+    count: 36
+  passangerChecks:
+  - color: 3
+    currentNumber: 90
+    targetNumber: 90
+  - color: 4
+    currentNumber: 36
+    targetNumber: 36
+  - color: 7
+    currentNumber: 36
+    targetNumber: 36
+  - color: 5
+    currentNumber: 36
+    targetNumber: 36
+  cameraPos: {x: 12.5, y: 158.9, z: -104.6}
+  cameraAngle: {x: 50.000015, y: 0, z: 0}
+  cameraSize: 38

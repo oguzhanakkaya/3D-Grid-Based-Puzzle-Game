@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b83e40f575b4879889d443c7f56506, type: 3}
+  m_Name: 17
+  m_EditorClassIdentifier: 
+  graphWidth: 4
+  graphHeight: 8
+  Items:
+  - position: {x: 2, y: 7}
+    colors: 5
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 7}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 0, y: 7}
+    colors: 5
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 4}
+    colors: 3
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 3}
+    colors: 5
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 3, y: 0}
+    colors: 5
+    direction: 1
+    busType: 0
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 6}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  - position: {x: 2, y: 5}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  - position: {x: 1, y: 3}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  - position: {x: 0, y: 2}
+    colors: 7
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 1
+  - position: {x: 0, y: 1}
+    colors: 1
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 0
+  - position: {x: 1, y: 0}
+    colors: 6
+    direction: 0
+    busType: 1
+    numberOfPassanger: 0
+    isStaticBus: 0
+  Obstacles: []
+  passangers:
+  - color: 1
+    count: 12
+  - color: 6
+    count: 12
+  - color: 7
+    count: 24
+  - color: 3
+    count: 6
+  - color: 5
+    count: 6
+  - color: 3
+    count: 6
+  - color: 5
+    count: 18
+  - color: 7
+    count: 24
+  passangerChecks:
+  - color: 5
+    currentNumber: 24
+    targetNumber: 24
+  - color: 3
+    currentNumber: 12
+    targetNumber: 12
+  - color: 7
+    currentNumber: 48
+    targetNumber: 48
+  - color: 1
+    currentNumber: 12
+    targetNumber: 12
+  - color: 6
+    currentNumber: 12
+    targetNumber: 12
+  cameraPos: {x: 7.5, y: 25.6, z: 1.53}
+  cameraAngle: {x: 50.000015, y: 0, z: 0}
+  cameraSize: 31
